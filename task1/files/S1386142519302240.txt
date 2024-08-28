@@ -1,0 +1,11 @@
+Pei Liang, Yong-feng Zhou, Bi-Jie Xu, Yan Xuan, Jing Xia, Dan Wang, De Zhang, Jia-ming Ye, Zhi Yu, Shang-zhong Jin,
+SERS-based vibration model and trace detection of drug molecules: Theoretical and experimental aspects,
+Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy,
+Volume 215,
+2019,
+Pages 168-175,
+ISSN 1386-1425,
+https://doi.org/10.1016/j.saa.2019.02.102.
+(https://www.sciencedirect.com/science/article/pii/S1386142519302240)
+Abstract: Prescription drug abuse can lead to serious medical negligence, so there is an urgent need to address its screening problem. Gliclazide is widely used as an antihypertensive drug for lowering blood sugar, but its excessive intake can cause serious harm to human body. Here we take gliclazide as an example to provide a method to realize the screening of drug abuse. Flower-like silver nanoparticles were prepared as surface enhanced Raman scattering (SERS) substrate, which can quantitatively and accurately detect the concentration of gliclazide. To understanding the enhanced activity of flower-like silver substrates, the Finite-Difference Time-Domain (FDTD) simulation model was established, and the simulation results showed that flower-like silver had high SERS substrate activity as well as enhanced hot spots at the rough particle surface and the adjacent particles. The experimental results indicated that the flower-shaped silver had an excellent Raman enhancement effect using R6G as detection molecules. When the gliclazide solutions with different concentration gradients were tested, the molecular vibrational modes were also obtained using Gaussian calculations. The rapid and accurate detection of gliclazide concentration was processed by Principal Component Analysis, which were consistent with the experiment, suggesting the importance of the combination of experiment and calculation. Finally, SERS substrate test was performed on the daily medication gliclazide tablets (II), which proved that the flower-like silver still has great Raman enhancement effect on the detection of actual samples.
+Keywords: Vibration model; Trace detection; Drug molecules; SERS; Finite-difference time-domain
